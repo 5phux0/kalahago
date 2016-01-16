@@ -1,6 +1,7 @@
 package kalahago
 
 /*
+#cgo CFLAGS: -std=c99
 #include "node.h"
 */
 import "C"
